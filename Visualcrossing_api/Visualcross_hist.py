@@ -14,13 +14,12 @@ start_date, end_date = "2021-01-01", "2021-01-15"
 # api_key = "2DSCEBCSZCZ87NGFDKK3Z84GB" #KU
 api_key = "9ECDU5PSBATV5BF3VYZH2MRU4" #Thanksfordoo
 
-url1 = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"
-url2 = str(lat)+"%2C%20"+str(lon)+"/"+str(start_date)+"/"+str(end_date)
-url3 = "?unitGroup=metric&elements=datetime%2CdatetimeEpoch%2Cname%2Caddress%2CresolvedAddress%2Clatitude%2Clongitude%2Ctemp%2Chumidity%2Cstations%2Csource&include=obs%2Chours&key="
-url4 = str(api_key)+"&contentType=json"
-url = url1+url2+url3+url4
-
-def Visualcrossing_hist(lat, lon, start_date, end_date, api_key, url):
+def Visualcrossing_hist(lat, lon, start_date, end_date, api_key):
+  url1 = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"
+  url2 = str(lat)+"%2C%20"+str(lon)+"/"+str(start_date)+"/"+str(end_date)
+  url3 = "?unitGroup=metric&elements=datetime%2CdatetimeEpoch%2Cname%2Caddress%2CresolvedAddress%2Clatitude%2Clongitude%2Ctemp%2Chumidity%2Cstations%2Csource&include=obs%2Chours&key="
+  url4 = str(api_key)+"&contentType=json"
+  url = url1+url2+url3+url4
   try: 
     resp_text = urllib.request.urlopen(url).read().decode('UTF-8')
     jsonData = json.loads(resp_text)
