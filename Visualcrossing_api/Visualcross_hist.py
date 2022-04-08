@@ -49,5 +49,5 @@ def Visualcrossing_hist(lat, lon, start_date, end_date, api_key):
   # files.download('Visualcrossing_01_01_2021_15_01_2021.csv')
   return df
 
-df = Visualcrossing_hist(lat, lon, start_date, end_date, api_key, url)
-df
+#df = Visualcrossing_hist(lat, lon, start_date, end_date, api_key, url)
+#df
