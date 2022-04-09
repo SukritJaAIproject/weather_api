@@ -6,7 +6,6 @@ import sys
 import pandas as pd
 from google.colab import files
 
-
 def Visualcrossing_forecast(lat, lon, api_key):
   url1 = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"
   url2 = str(lat)+"%2C%20"+str(lon)+"?unitGroup=metric&key="+str(api_key)+"&contentType=json"
