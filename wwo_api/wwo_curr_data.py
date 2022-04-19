@@ -13,7 +13,7 @@ current_time = datetime.now().strftime("%H:%M:%S")
 
 def wwo_curr_data(lat, lon, date, apikey):
   datel, timel, templ, rhl = [], [], [], []
-  url = "https://api.worldweatheronline.com/premium/v1/past-weather.ashx?q="+str(lat)+", "+str(lon) +"&date="+str(start_date)+"&key="+str(apikey)+" &tp=1&format=json"
+  url = "https://api.worldweatheronline.com/premium/v1/past-weather.ashx?q="+str(lat)+", "+str(lon) +"&date="+str(date)+"&key="+str(apikey)+" &tp=1&format=json"
   payload, headers={}, {}
   response = requests.request("GET", url, headers=headers, data=payload)
   data = json.loads(response.text)
