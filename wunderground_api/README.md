@@ -21,3 +21,10 @@
 - https://projects.raspberrypi.org/en/projects/uploading-weather-data-to-weather-underground/5
 - https://github.com/MarcoBuster/WUndergroundPWS-API
 - https://www.pythonforbeginners.com/scraping/scraping-wunderground
+- https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
+- https://medium.com/@imdipto/best-free-alternatives-to-the-wunderground-weather-api-21acb22450e6
+- https://pywws.readthedocs.io/en/20.1.0/index.html
+- https://rapidapi.com/blog/how-to-find-historical-weather-data-using-rapidapi/
+- https://www.meteoblue.com/en/weather/archive/export/saint-python_france_6438477
+- https://www.spatialtimes.com/2019/01/Create-a-JavaScript-Weather-App-with-Location-Data-Part-1/
+- https://libs.garden/python/search?q=weather+underground

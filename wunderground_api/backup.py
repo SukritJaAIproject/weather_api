@@ -62,3 +62,45 @@
 # print('longitude: ', data['location']['longitude'])
 # print('distanceKm: ', data['location']['distanceKm'])
 # print('distanceMi: ', data['location']['distanceMi'])
+
+lat, lon, apiKey = 13.917, 100.600, "92034bae5e864c0a834bae5e86fc0a18"
+url = "https://api.weather.com/v3/location/point?format=json&geocode="+str(lat)+","+str(lon)+"&language=en-US&apiKey="+str(apiKey)
+payload, headers={}, {}
+response = requests.request("GET", url, headers=headers, data=payload)
+data = json.loads(response.text)
+
+print(data.keys())
+print(data['location'].keys())
+print('latitude: ', data['location']['latitude'])
+print('longitude: ', data['location']['longitude'])
+print('city: ', data['location']['city'])
+print('adminDistrict: ', data['location']['adminDistrict'])
+print('placeId: ', data['location']['placeId'])
+print('canonicalCityId: ', data['location']['canonicalCityId'])
+print('locId: ', data['location']['locId'])
+print('pwsId: ', data['location']['pwsId'])
+print('regionalSatellite: ', data['location']['regionalSatellite'])
+
+##### Search Observation by Geocode: #####
+import time
+import json
+import datetime
+import requests
+import pandas as pd
+from tqdm import tqdm
+lat, lon, apiKey = 13.989478999999996, 100.616387, "92034bae5e864c0a834bae5e86fc0a18"
+url = "https://api.weather.com/v3/location/near?geocode="+str(lat)+","+str(lon)+"&product=observation&format=json&apiKey="+str(apiKey)
+payload, headers={}, {}
+response = requests.request("GET", url, headers=headers, data=payload)
+data = json.loads(response.text)
+
+stationName, stationId, obsType = data['location']['stationName'], data['location']['stationId'], data['location']['obsType']
+lat, lon, distanceKm = data['location']['latitude'], data['location']['longitude'], data['location']['distanceKm']
+stationNames, stationIds, obsTypes, lats, lons, distanceKms = [], [], [], [], [], []
+
+for i in range(len(stationName)):
+  stationNames.append(stationName[i]); stationIds.append(stationId[i]);
+  obsTypes.append(obsType[i])
+  lats.append(lat[i]); lons.append(lon[i]); distanceKms.append(distanceKm[i]);
+df = pd.DataFrame({'stationName':stationNames, 'stationId':stationIds, 'obsType':obsTypes, 'latitude':lats, 'longitude':lons, 'distanceKm':distanceKms})
+df
