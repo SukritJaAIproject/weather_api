@@ -49,6 +49,16 @@ def current(lat, lon, appid, time_str, utc_time):
   temp, rh = data['current']['temp'], data['current']['humidity']
   result = {'datetime':time_str, 'utc':utc_time, 'humidity':rh, 'temp':temp }
   return result
+  
+def openweathermap_f(lat, lon):
+  api_key = "8381cc3e55e90efdcc62d73fa8fc5d3a"  #egat
+  url = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&units=metric" % (lat, lon, api_key)
+  response = requests.get(url)
+  data = json.loads(response.text)
+  temp = data['current']['temp']
+  humidity = data['current']['humidity']
+  return temp, humidity
+
 
 
 # api_key = "8381cc3e55e90efdcc62d73fa8fc5d3a"'
