@@ -54,6 +54,7 @@ cur_date = datetime.today().strftime("%Y-%m-%d")
 cur_time = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%H:%M:%S")
 apikey_met = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
 appid_open = "283019a4b61eafae7824e4d94b8f1926" #thanksfordoo@gmail.com
+apiKey_wdg = "92034bae5e864c0a834bae5e86fc0a18"
 
 def weather_pred(lat, lon, zoom, cur_date, cur_time, appid_open, apikey_met):
   x, y, z = latlon2TMS(lat, lon, zoom)
@@ -96,7 +97,7 @@ def weather_pred(lat, lon, zoom, cur_date, cur_time, appid_open, apikey_met):
   E_rh = np.array([E_rh_open, E_rh_m1, E_rh_m2]).mean()
 
   ## Actual station from wunderground
-  actual = wunderground_current(lat, lon)
+  actual = wunderground_current(lat, lon, apiKey_wdg)
   print('Actual', actual)
 
   # result = {'temp&rh_q1':[temp_q1 ,rh_q1], 'temp&rh_q2':[temp_q2 ,rh_q2], 'temp&rh_q3':[temp_q3 ,rh_q3], 'temp&rh_q4':[temp_q4 ,rh_q4], 'Estimate_temp&rh':[Estimate_temp, Estimate_rh], 'actual':actual}
