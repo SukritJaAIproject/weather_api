@@ -41,8 +41,30 @@ def open_his_data(lat, lon, appid, start2end):
   df = pd.DataFrame({'datetime':start2end['datetime'].tolist(),'utc':items, 'humidity':humiditys, 'temp':temps })
   return df
 
+def current(lat, lon, appid, time_str, utc_time):
+  url = "https://api.openweathermap.org/data/2.5/onecall/timemachine?lat="+str(lat)+"&lon="+str(lon)+"&dt="+str(utc_time)+"&appid="+str(appid)
+  payload, headers={}, {}
+  response = requests.request("GET", url, headers=headers, data=payload)
+  data = json.loads(response.text)  
+  temp, rh = data['current']['temp'], data['current']['humidity']
+  result = {'datetime':time_str, 'utc':utc_time, 'humidity':rh, 'temp':temp }
+  return result
+
+
+# api_key = "8381cc3e55e90efdcc62d73fa8fc5d3a"'
+# api_key = "b6710939254546da2f0de859db4c44d4"'
+# api_key = "283019a4b61eafae7824e4d94b8f1926"'
+
 start_date, end_date = datetime(2022, 4, 17, 00, 00), datetime(2022, 4, 21, 00, 00)
 start2end = gen_utc_time(start_date, end_date)
-lat, lon, appid = "13.917", "100.600", "8381cc3e55e90efdcc62d73fa8fc5d3a"
-df = open_his_data(lat, lon, appid, start2end)
-df
+lat, lon, appid = "13.917", "100.600", "b6710939254546da2f0de859db4c44d4"
+
+## Historical data
+# df = open_his_data(lat, lon, appid, start2end)
+# print(df)
+
+## Current data
+dtime = datetime(2022, 4, 21, 00, 00).strftime("%Y-%m-%d %H:%M")
+utc = calendar.timegm(datetime(2022, 4, 21, 00, 00).utctimetuple())
+result = current(lat, lon, appid, dtime, utc)
+print('result', result)

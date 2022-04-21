@@ -1,0 +1,7 @@
+  # print(data)
+  # print(data.keys())
+  # print(data['lat'])
+  # print(data['hourly'])
+  # print(data['hourly'][0].keys())
+  # print('temp:', data['hourly'][0]['temp'])
+  # print('humidity:', data['hourly'][0]['humidity'])
