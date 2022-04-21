@@ -64,7 +64,7 @@ def wunderground_current(lat, lon, apiKey):
       solarRadiation = data['observations'][0]['solarRadiation']
       lat, lon = data['observations'][0]['lat'], data['observations'][0]['lon']
       humidity, temp = data['observations'][0]['humidity'], data['observations'][0]['metric']['temp']
-      print(stationId, 'lat:', lat, 'lon:', lon,'temp:', temp, 'humidity:', humidity)
+      #print(stationId, 'lat:', lat, 'lon:', lon,'temp:', temp, 'humidity:', humidity)
       tempav.append(temp); rhav.append(humidity); 
     except:
       pass
