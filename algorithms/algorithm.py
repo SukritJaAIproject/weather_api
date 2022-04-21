@@ -55,6 +55,8 @@ cur_time = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%H:%M:%S")
 apikey_met = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
 appid_open = "283019a4b61eafae7824e4d94b8f1926" #thanksfordoo@gmail.com
 apiKey_wdg = "92034bae5e864c0a834bae5e86fc0a18"
+apikey_vc = "9ECDU5PSBATV5BF3VYZH2MRU4" #Thanksfordoo
+apikey_wwo = "842ff68cf9ba4d5c86c115928222303"
 
 def weather_pred(lat, lon, zoom, cur_date, cur_time, appid_open, apikey_met):
   x, y, z = latlon2TMS(lat, lon, zoom)
@@ -80,21 +82,40 @@ def weather_pred(lat, lon, zoom, cur_date, cur_time, appid_open, apikey_met):
   temp_q3_m2, rh_q3_m2 = current_data_point(lat_max, lon_min, cur_date, cur_date, apikey_met, cur_date, datetime.now().strftime("%H")) #q3
   temp_q4_m2, rh_q4_m2 = current_data_point(lat_max, lon_max, cur_date, cur_date, apikey_met, cur_date, datetime.now().strftime("%H")) #q4
 
-  ## Calculate temp, rh
+  ## Visualcrossing_api
+  temp_q1_vc, rh_q1_vc =  Visualcross_current(lat_min, lon_max, apikey_vc, cur_date, cur_time)
+  temp_q2_vc, rh_q2_vc =  Visualcross_current(lat_min, lon_min, apikey_vc, cur_date, cur_time)
+  temp_q3_vc, rh_q3_vc =  Visualcross_current(lat_max, lon_min, apikey_vc, cur_date, cur_time)
+  temp_q4_vc, rh_q4_vc =  Visualcross_current(lat_max, lon_max, apikey_vc, cur_date, cur_time)
+
+  ## wwo
+  temp_q1_w, rh_q1_w =  wwo_curr_data(lat_min, lon_max, cur_date, apikey_wwo)
+  temp_q2_w, rh_q2_w =  wwo_curr_data(lat_min, lon_min, cur_date, apikey_wwo)
+  temp_q3_w, rh_q3_w =  wwo_curr_data(lat_max, lon_min, cur_date, apikey_wwo)
+  temp_q4_w, rh_q4_w =  wwo_curr_data(lat_max, lon_max, cur_date, apikey_wwo)
+  
   E_temp_open = (temp_q1_open+temp_q2_open+temp_q3_open+temp_q4_open)/4
-  E_rh_open =(rh_q1_open+rh_q2_open+rh_q3_open+rh_q4_open)/4
+  E_rh_open = (rh_q1_open+rh_q2_open+rh_q3_open+rh_q4_open)/4
   print('openweather_api: ', 'Temp: ', E_temp_open, 'Rh: ',  E_temp_open)
 
   E_temp_m1 = (temp_q1_m1+temp_q2_m1+temp_q3_m1+temp_q4_m1)/4
   E_rh_m1 =(rh_q1_m1+rh_q2_m1+rh_q3_m1+rh_q4_m1)/4
-  print('meteostat: ', 'Temp: ', E_temp_m1, 'Rh: ',  E_rh_m1)
+  print('meteostat actual: ', 'Temp: ', E_temp_m1, 'Rh: ',  E_rh_m1)
 
   E_temp_m2 = (temp_q1_m2+temp_q2_m2+temp_q3_m2+temp_q4_m2)/4
   E_rh_m2 =(rh_q1_m2+rh_q2_m2+rh_q3_m2+rh_q4_m2)/4
-  print('meteostat: ', 'Temp: ', E_temp_m2, 'Rh: ',  E_rh_m2)
+  print('meteostat predict: ', 'Temp: ', E_temp_m2, 'Rh: ',  E_rh_m2)
 
-  E_temp = np.array([E_temp_open, E_temp_m1, E_temp_m2]).mean()
-  E_rh = np.array([E_rh_open, E_rh_m1, E_rh_m2]).mean()
+  E_temp_vc = (temp_q1_vc+temp_q2_vc+temp_q3_vc+temp_q4_vc)/4
+  E_rh_vc =(rh_q1_vc+rh_q2_vc+rh_q3_vc+rh_q4_vc)/4
+  print('Visualcrossing: ', 'Temp: ', E_temp_vc, 'Rh: ',  E_rh_m2)
+
+  E_temp_w = (temp_q1_w+temp_q2_w+temp_q3_w+temp_q4_w)/4
+  E_rh_w =(rh_q1_w+rh_q2_w+rh_q3_w+rh_q4_w)/4
+  print('wwo: ', 'Temp: ', E_temp_w, 'Rh: ',  E_rh_w)
+
+  E_temp = np.array([E_temp_open, E_temp_m1, E_temp_m2, E_temp_vc, E_temp_w]).mean()
+  E_rh = np.array([E_rh_open, E_rh_m1, E_rh_m2, E_rh_vc, E_rh_w]).mean()
 
   ## Actual station from wunderground
   actual = wunderground_current(lat, lon, apiKey_wdg)
