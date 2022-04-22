@@ -21,7 +21,24 @@ def wwo_curr_data(lat, lon, date, apikey):
   ts = data['data']['weather'][0]['hourly']
   for i in range(len(ts)):
     time = data['data']['weather'][0]['hourly'][i]['time']
-    if time[0:2] == current_time[0:2]: 
+    var = current_time[0:2]
+    if var == '02':
+      var = '20'
+    elif var == '03':
+      var = '30'
+    elif var == '04':
+      var = '40'
+    elif var == '05':
+      var = '50'
+    elif var == '06':
+      var = '60'
+    elif var == '07':
+      var = '70' 
+    elif var == '08':
+      var = '80'       
+    elif var == '09':
+      var = '90'         
+    if time[0:2] == var: 
       tempC = data['data']['weather'][0]['hourly'][i]['tempC']
       rh = data['data']['weather'][0]['hourly'][i]['humidity']
   df = {'date':dates, 'time':current_time, 'temp':tempC, 'rh':rh}   

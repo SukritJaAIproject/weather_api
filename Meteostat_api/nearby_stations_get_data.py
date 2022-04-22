@@ -38,6 +38,6 @@ def nearby_stations_get_data(lat, lon, apikey, current_date, current_time):
         result = {'time':times, 'temp':temp, 'rh':rh}
   return result
 
-lat, lon = 13.989478999999996, 100.616387
-result = nearby_stations_get_data(lat, lon, apikey, current_date, current_time)
-result
+#lat, lon = 13.989478999999996, 100.616387
+#result = nearby_stations_get_data(lat, lon, apikey, current_date, current_time)
+#result
