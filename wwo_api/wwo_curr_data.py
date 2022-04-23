@@ -44,8 +44,8 @@ def wwo_curr_data(lat, lon, date, apikey):
   df = {'date':dates, 'time':current_time, 'temp':tempC, 'rh':rh}   
   return df
 
-lat, lon = "13.989478999999996", "100.616387" 
-date = "2022-01-01"
-apikey = "842ff68cf9ba4d5c86c115928222303"
-df = wwo_curr_data(lat, lon, date, apikey)
-df
+# lat, lon = "13.989478999999996", "100.616387" 
+# date = "2022-01-01"
+# apikey = "842ff68cf9ba4d5c86c115928222303"
+# df = wwo_curr_data(lat, lon, date, apikey)
+# df
