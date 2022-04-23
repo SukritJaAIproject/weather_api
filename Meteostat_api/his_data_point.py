@@ -36,8 +36,8 @@ def current_data_point(lat, lon, start, end, api_key, cur_date, cur_time):
     time, temp, rh = data['data'][i]['time'], data['data'][i]['temp'], data['data'][i]['rhum']
     times.append(time); temps.append(temp); rhs.append(rh);  idx.append(i);
   df = pd.DataFrame({'idx':idx, 'datetime':times, 'temp':temps, 'rh':rhs})
-  print(df['datetime'], '_' ,df['datetime'][i][11:-6])
-  print('cur_time', cur_time)
+  #print(df['datetime'], '_' ,df['datetime'][i][11:-6])
+  #print('cur_time', cur_time)
   for i in range(df.shape[0]):
     if df['datetime'][i][11:-6] == cur_time:
       time_m2, temp, rh = df['datetime'][i], df['temp'][i], df['rh'][i]

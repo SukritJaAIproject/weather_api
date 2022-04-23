@@ -7,11 +7,11 @@ from datetime import datetime
 from datetime import date
 from wwo_hist import retrieve_hist_data
 
-current_date = datetime.today().strftime("%Y-%m-%d")
-current_time = datetime.now().strftime("%H:%M:%S")
+#current_date = datetime.today().strftime("%Y-%m-%d")
+#current_time = datetime.now().strftime("%H:%M:%S")
 # print("current_date =", current_date, "Current Time =", current_time)
 
-def wwo_curr_data(lat, lon, date, apikey):
+def wwo_curr_data(lat, lon, date, current_time, apikey):
   datel, timel, templ, rhl = [], [], [], []
   url = "https://api.worldweatheronline.com/premium/v1/past-weather.ashx?q="+str(lat)+", "+str(lon) +"&date="+str(date)+"&key="+str(apikey)+" &tp=1&format=json"
   payload, headers={}, {}
