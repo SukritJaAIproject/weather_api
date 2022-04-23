@@ -1,4 +1,5 @@
 import json
+import pytz
 import datetime
 import calendar
 import requests
@@ -42,7 +43,7 @@ def open_his_data(lat, lon, appid, start2end):
   return df
 
 def current(lat, lon, appid, time_str, utc_time):
-  url = "https://api.openweathermap.org/data/2.5/onecall/timemachine?lat="+str(lat)+"&lon="+str(lon)+"&dt="+str(utc_time)+"&appid="+str(appid)
+  url = "https://api.openweathermap.org/data/2.5/onecall/timemachine?lat="+str(lat)+"&lon="+str(lon)+"&dt="+str(utc_time)+"&appid="+str(appid)+"&units=metric"
   payload, headers={}, {}
   response = requests.request("GET", url, headers=headers, data=payload)
   data = json.loads(response.text)  
@@ -58,22 +59,27 @@ def openweathermap_f(lat, lon, api_key):
   humidity = data['current']['humidity']
   return temp, humidity
 
-
-
-# # api_key = "8381cc3e55e90efdcc62d73fa8fc5d3a"'
-# # api_key = "b6710939254546da2f0de859db4c44d4"'
-# # api_key = "283019a4b61eafae7824e4d94b8f1926"'
-
+# appid = ["8381cc3e55e90efdcc62d73fa8fc5d3a", "b6710939254546da2f0de859db4c44d4", "283019a4b61eafae7824e4d94b8f1926"]
 # start_date, end_date = datetime(2022, 4, 17, 00, 00), datetime(2022, 4, 21, 00, 00)
 # start2end = gen_utc_time(start_date, end_date)
-# lat, lon, appid = "13.917", "100.600", "b6710939254546da2f0de859db4c44d4"
+lat, lon, appid = "13.917", "100.600", "b6710939254546da2f0de859db4c44d4"
+
+## Current data
+# utc = calendar.timegm(datetime(2022, 4, 21, 00, 00).utctimetuple())
+# current_date = datetime.today().strftime("%Y-%m-%d")
+# current_time = datetime.now().strftime("%H:%M:%S")
+
+dtime = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d %H:%M")
+c_datetime_utc = calendar.timegm(datetime.now(pytz.timezone('Asia/Bangkok')).utctimetuple())
+# print('c_datetime_utc: ', c_datetime_utc, 'dtime: ', dtime)
 
 # ## Historical data
 # # df = open_his_data(lat, lon, appid, start2end)
 # # print(df)
 
-# ## Current data
-# dtime = datetime(2022, 4, 21, 00, 00).strftime("%Y-%m-%d %H:%M")
-# utc = calendar.timegm(datetime(2022, 4, 21, 00, 00).utctimetuple())
-# result = current(lat, lon, appid, dtime, utc)
-# print('result', result)
+r1 = current(lat, lon, appid, dtime, c_datetime_utc)
+r1_datetime, r1_rh, r1_temp  = r1['datetime'], r1['humidity'], r1['temp']
+print('datetime: ', r1_datetime, 'Rh: ', r1_rh, 'Temp: ', r1_temp)
+
+# result2 = openweathermap_f(lat, lon, appid)
+# print('result2 openweathermap_f: ', result2)

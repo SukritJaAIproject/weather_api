@@ -1,4 +1,5 @@
 import json
+import pytz
 import time as timesleep
 import requests
 import datetime
@@ -39,10 +40,10 @@ def current_data_point(lat, lon, start, end, api_key, cur_date, cur_time):
   df = pd.DataFrame({'idx':idx, 'datetime':times, 'temp':temps, 'rh':rhs})
   for i in range(df.shape[0]):
     if df['datetime'][i][11:-6] == cur_time:
-      temp, rh = df['temp'][i], df['rh'][i]
+      time_m2, temp, rh = df['datetime'][i], df['temp'][i], df['rh'][i]
     else:
       pass
-  return temp, rh
+  return time_m2, temp, rh
 
 ## Testing
 # lat, lon = "13.989478999999996", "100.616387"
