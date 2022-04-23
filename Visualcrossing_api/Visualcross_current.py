@@ -45,7 +45,7 @@ def Visualcross_current(lat, lon, api_key, current_date, current_time):
       temp, rh = data[j]['temp'], data[j]['humidity']
       if datetimes[0:2] == current_time[0:2]:
         # print('datetime[0:2]', datetimes[0:2], 'current_time[0:2]', current_time[0:2])
-        print('datetime: ', datetimes, 'current_time: ', current_time , 'Temp: ', temp, 'humidity: ', rh)
+        #print('datetime: ', datetimes, 'current_time: ', current_time , 'Temp: ', temp, 'humidity: ', rh)
         result = {'datetime':datetimes, 'current_time':current_time , 'Temp':temp, 'humidity':rh}
   return result
 result = Visualcross_current(lat, lon, api_key, current_date, current_time)
