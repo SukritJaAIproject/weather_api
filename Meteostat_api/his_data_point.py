@@ -44,16 +44,17 @@ def current_data_point(lat, lon, start, end, api_key, cur_date, cur_time):
       pass
   return temp, rh
 
-lat, lon = "13.989478999999996", "100.616387"
-start, end = "2021-01-01", "2021-01-15"
-#api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
-api_key = "078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb"
+## Testing
+# lat, lon = "13.989478999999996", "100.616387"
+# start, end = "2021-01-01", "2021-01-15"
+# #api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
+# api_key = "078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb"
 
-cur_date, cur_time = datetime.today().strftime("%Y-%m-%d"), datetime.now().strftime("%H")
-print("current_date =", cur_date, "Current Time =", cur_time)
+# cur_date, cur_time = datetime.today().strftime("%Y-%m-%d"), datetime.now().strftime("%H")
+# print("current_date =", cur_date, "Current Time =", cur_time)
 
-df = his_data_point(lat, lon, start, end, api_key)
-print(df)
+# df = his_data_point(lat, lon, start, end, api_key)
+# print(df)
 
-temp, rh = current_data_point(lat, lon, start, end, api_key, cur_date, cur_time)
-print(temp, rh)
+# temp, rh = current_data_point(lat, lon, start, end, api_key, cur_date, cur_time)
+# print(temp, rh)
