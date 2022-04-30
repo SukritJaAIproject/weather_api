@@ -1,5 +1,5 @@
 import json
-import time
+import time as timesleep
 import requests
 import datetime
 import pandas as pd
@@ -11,7 +11,7 @@ def his_data_point(lat, lon, start, end, api_key):
   '''
   url = "https://meteostat.p.rapidapi.com/point/hourly"
   querystring, headers = {"lat":lat, "lon":lon, "start":start, "end":end, "tz":"Asia/Bangkok","model":"true"}, {"X-RapidAPI-Host": "meteostat.p.rapidapi.com", "X-RapidAPI-Key": api_key}
-  time.sleep(60)
+  timesleep.sleep(60)
   response = requests.request("GET", url, headers=headers, params=querystring)
   data = json.loads(response.text)
   #print(data)
@@ -28,7 +28,7 @@ def current_data_point(lat, lon, start, end, api_key, cur_date, cur_time):
   '''
   url = "https://meteostat.p.rapidapi.com/point/hourly"
   querystring, headers = {"lat":lat, "lon":lon, "start":start, "end":end, "tz":"Asia/Bangkok","model":"true"}, {"X-RapidAPI-Host": "meteostat.p.rapidapi.com", "X-RapidAPI-Key": api_key}
-  time.sleep(60)
+  timesleep.sleep(60)
   response = requests.request("GET", url, headers=headers, params=querystring)
   data = json.loads(response.text)
   #print(data)
