@@ -15,7 +15,7 @@
 	- visualcrossing : https://www.visualcrossing.com/weather-data-editions : 
 	- meteostat : https://github.com/meteostat/weather-stations : free
 	- meteostat : https://github.com/meteostat/weather-stations : free
-	- meteostat : https://rapidapi.com/meteostat/api/meteostat/pricing/
+	- meteostat : https://rapidapi.com/meteostat/api/meteostat/pricing/: $29.99 / mo
 ```
 
 ```
