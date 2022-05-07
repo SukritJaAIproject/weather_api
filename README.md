@@ -8,4 +8,5 @@
 
 
 ## Pricing
-	- https://openweathermap.org/price #student free
+	- openweathermap : https://openweathermap.org/price #student free
+	- weatherbit : https://www.weatherbit.io/pricing
