@@ -18,3 +18,8 @@
 						- lat_mim : 14.169
 			- lon_min : 98.646  			- lon_max : 103.107
 						- lat_max : 11.351
+						
+	### south
+						- lat_mim : 11.351
+			- lon_min : 97.690  			- lon_max : 102.112
+						- lat_max : 5.567
