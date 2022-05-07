@@ -65,22 +65,22 @@ def dh_hist_f_station(station, start, end, res):
   return df
   
 ################################ 
-locationID = '72219'
-lat, lon = 13.989478999999996, 100.616387
-start, end, res = datetime(2021, 1, 1), datetime(2021, 1, 15), "hourly"
-#start, end = datetime(2021, 1, 1), datetime(2021, 2, 28, 23, 59)
+# locationID = '72219'
+# lat, lon = 13.989478999999996, 100.616387
+# start, end, res = datetime(2021, 1, 1), datetime(2021, 1, 15), "hourly"
+# #start, end = datetime(2021, 1, 1), datetime(2021, 2, 28, 23, 59)
 
-result1 = closest_wstation(lat, lon, start, end, res)
-print(result1)
+#result1 = closest_wstation(lat, lon, start, end, res)
+#print(result1)
 
-result2 = h_data_f_location(locationID, start, end)
-print(result2)
+#result2 = h_data_f_location(locationID, start, end)
+#print(result2)
 
-result3 = d_data_f_latlon(lat, lon)
-print(result3)
+#result3 = d_data_f_latlon(lat, lon)
+#print(result3)
 
-result4 = dh_hist_f_station(result1['station_id'], start, end, res)
-print(result4)
+#result4 = dh_hist_f_station(result1['station_id'], start, end, res)
+#print(result4)
 
 # data.plot(y=['tavg', 'tmin', 'tmax'], kind = 'line')
 # data.plot(y=['temp', 'rhum'], kind = 'line')

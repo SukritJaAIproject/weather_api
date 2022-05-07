@@ -19,5 +19,5 @@ def current_tmd_data():
     # print(str(i), sname_en, ":", sname_th, Lat, Lon, temp, rh)
   df = pd.DataFrame({'datetime':datetime, 'sname_en':sname_en_g, 'sname_th':sname_th_g, 'Lat':Lat_g, 'Lon':Lon_g, 'temp':temp_g, 'rh':rh_g})
   return df
-df = current_tmd_data()
-df
+# df = current_tmd_data()
+# df

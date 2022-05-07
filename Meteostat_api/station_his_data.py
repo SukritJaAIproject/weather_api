@@ -19,8 +19,8 @@ def station_his_data(station, start, end, tz, api_key):
   df = pd.DataFrame({'idx':idx, 'datetime':times, 'temp':temps, 'rh':rhs })
   return df
 
-station = "48456"
-start, end, tz = "2021-01-01", "2021-01-15", "Asia/Bangkok"
-api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
-df = station_his_data(station, start, end, tz, api_key)
-print(df)
+#station = "48456"
+#start, end, tz = "2021-01-01", "2021-01-15", "Asia/Bangkok"
+#api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
+#df = station_his_data(station, start, end, tz, api_key)
+#print(df)

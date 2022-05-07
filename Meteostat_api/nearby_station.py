@@ -23,7 +23,7 @@ def Nearby_Stations(lat, lon, api_key):
   df = pd.DataFrame({'Id':ids, 'Name':names, 'distance(km)':distances})
   return df
 
-lat, lon = 13.989478999999996, 100.616387
-api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
-data = Nearby_Stations(lat, lon, api_key)
-print(data)
+#lat, lon = 13.989478999999996, 100.616387
+#api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
+#data = Nearby_Stations(lat, lon, api_key)
+#print(data)
