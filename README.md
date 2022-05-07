@@ -8,12 +8,16 @@
 
 
 ## Pricing
-	- openweathermap : https://openweathermap.org/price #student free, 29,661 B/M
+	- openweathermap : https://openweathermap.org/price : student free, 29,661 B/M
 	- weatherbit : https://www.weatherbit.io/pricing : 6,181 B/M
-	- meteomatics : https://www.meteomatics.com/en/weather-api/ contact
-	- visualcrossing : https://www.visualcrossing.com/weather-data-editions
-	
-	
+	- meteomatics : https://www.meteomatics.com/en/weather-api/ : contact
+	- visualcrossing : https://www.visualcrossing.com/weather-data-editions : 
+	- meteostat : https://github.com/meteostat/weather-stations : free
+	- meteostat : https://github.com/meteostat/weather-stations : free
 ## new data provider
 	- https://www.meteomatics.com/
 	
+	
+
+## Historical data
+	- https://drive.google.com/drive/folders/1d4nLTvWkyUEpgBiWkff5mMvZN4fCrGHt?usp=sharing
