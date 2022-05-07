@@ -10,3 +10,8 @@
 ## Pricing
 	- openweathermap : https://openweathermap.org/price #student free
 	- weatherbit : https://www.weatherbit.io/pricing : 6181.20 B/M
+	
+	
+## new data provider
+	- https://www.meteomatics.com/
+	
