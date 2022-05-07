@@ -23,3 +23,7 @@
 						- lat_mim : 11.351
 			- lon_min : 97.690  			- lon_max : 102.112
 						- lat_max : 5.567
+						
+
+	## Reference
+		- https://www.openstreetmap.org/export#map=7/8.912/101.228
