@@ -30,9 +30,9 @@
 ### Visualcrossing
 |```no.```|```token```|```account```|
 | :---:| :---: | :---: |
-|<sub>0</sup>|<sub>Q82HADKP8VA46L5QNL2LJLC4Y</sup>|<sub><sup>CU</sup></sub>|
-|<sub>1</sup>|<sub>2DSCEBCSZCZ87NGFDKK3Z84GB</sup>|<sub><sup>KU</sup></sub>|
-|<sub>2</sup>|<sub>9ECDU5PSBATV5BF3VYZH2MRU4</sup>|<sub><sup>Thanksfordoo</sup></sub>|
+|<sub>0</sup>|<sub>Q82HADKP8VA46L5QNL2LJLC4Y</sup>|<sub>CU</sub>|
+|<sub>1</sup>|<sub>2DSCEBCSZCZ87NGFDKK3Z84GB</sup>|<sub>KU</sub>|
+|<sub>2</sup>|<sub>9ECDU5PSBATV5BF3VYZH2MRU4</sup>|<sub>Thanksfordoo</sub>|
 
 ## Reference
 	- https://www.openstreetmap.org/export#map=7/8.912/101.228
