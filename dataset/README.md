@@ -73,7 +73,7 @@
 ### openweathermap  
 |```no.```|```token```|```account```|```Quota limit```|
 | :---:| :---: | :---: | :---: |
-|<sub>0</sup>|<sub>8381cc3e55e90efdcc62d73fa8fc5d3a</sub>|										|<sub>-</sup>|									<sub>1,000/day 30,000/month</sup>|
+|<sub>0</sup>|<sub>8381cc3e55e90efdcc62d73fa8fc5d3a</sub>										|<sub>-</sup>|									<sub>1,000/day 30,000/month</sup>|
 |<sub>1</sup>|<sub>38c0455b66d86376e0452cdd69a6371f<br>06ddef20812d74745b082fef1ad24a79</sup>	|<sub>6170306321@alumni.chula.ac.th</sub>|		<sub>1,000/day 30,000/month</sup>|
 |<sub>2</sup>|<sub>283019a4b61eafae7824e4d94b8f1926<br>24239069ddf1215fea599ff22d87241a</sup>	|<sub>thanksfordoo@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
 |<sub>3</sup>|<sub>337e3aac0ea1661559986991e11b2fd2</sup>										|<sub>johnconnorsjj@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
