@@ -48,6 +48,8 @@
 |<sub>7</sup>|<sub>4771903fb9msh974f474fdeea935p159107jsn21770b97c4dc</sup>|						<sub>sukritjaidee3@gmail.com</sub>	|<sub>500/month</sub>|
 |<sub>8</sup>|<sub>e71c6d8569msh0f22317535790adp194e8ajsn312cab218f93</sup>|						<sub>sukritjaidee1@gmail.com</sub>	|<sub>500/month</sub>|
 |<sub>9</sup>|<sub>a1229ee699mshe25a7f8e1a83c85p12c78ejsn46f150c9ee90</sup>|						<sub>johnconnorsjj@gmail.com</sub>	|<sub>500/month</sub>|
+|<sub>10</sup>|<sub>c64d4ac1d6msh32c99ee1de9023cp169385jsn0774e91c86e3</sup>|						<sub>sukritjaide@gmail.com</sub>	|<sub>500/month</sub>|
+|<sub>11</sup>|<sub>161943e7a1msh2f6daaf1cafaa9cp1e3433jsnb09f7d2343cd</sup>|						<sub>sukritjaid@gmail.com</sub>		|<sub>500/month</sub>|
 	-historical data : https://meteostat.net/en/place/th/khlong-luang?s=48419&t=2022-04-25/2022-05-02
 
 ### wwo 
