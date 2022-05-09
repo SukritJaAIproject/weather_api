@@ -73,19 +73,19 @@
 ### openweathermap  
 |```no.```|```token```|```account```|```Quota limit```|
 | :---:| :---: | :---: | :---: |
-|<sub>0</sup>|<sub></sup>|<sub>8381cc3e55e90efdcc62d73fa8fc5d3a</sub>|
-|<sub>1</sup>|<sub>38c0455b66d86376e0452cdd69a6371f<br>06ddef20812d74745b082fef1ad24a79</sup>	|<sub>6170306321@alumni.chula.ac.th</sub>|
-|<sub>2</sup>|<sub>283019a4b61eafae7824e4d94b8f1926<br>24239069ddf1215fea599ff22d87241a</sup>	|<sub>thanksfordoo@gmail.com</sub>|
-|<sub>3</sup>|<sub>337e3aac0ea1661559986991e11b2fd2</sup>										|<sub>johnconnorsjj@gmail.com</sub>|
-|<sub>4</sup>|<sub>c8a441c6520d8a263990810629ac5c70</sup>										|<sub>sukit.j@ku.th</sub>|
-|<sub>5</sup>|<sub>139e137adf53c8c5ad9dd0c3f76ed15c</sup>										|<sub>healthcamth.ai@gmail.com</sub>|
-|<sub>6</sup>|<sub>cc46e3a6e0623d82e049835c05572c8e</sup>										|<sub>sukritjaid@gmail.com</sub>|
-|<sub>7</sup>|<sub>8204452a0b97c103dd950449ea71476d</sup>										|<sub>sukritjaidee@gmail.com</sub>|
-|<sub>8</sup>|<sub>c818a1a464199095a08b9fe4ee35cf1b</sup>										|<sub>sukritjaidee1@gmail.com</sub>|	
-|<sub>9</sup>|<sub>1e7b439448eb2bd640d2350265a35419</sup>										|<sub>sukritjaidee3@gmail.com</sub>|			
-|<sub>10</sup>|<sub>06bba879aa35472fcef1880cc63905e7</sup>										|<sub>sukritjaidee4@gmail.com</sub>|
-|<sub>11</sup>|<sub>b6710939254546da2f0de859db4c44d4<br>377a7a72601d16e4d3f1b457c3b9cd7a</sup>	|<sub>sukritjaidee5@gmail.com</sub>|
-|<sub>12</sup>|<sub>21a0dd6fccb08073ea2e0b07960abe5c</sup>										|<sub>sukritjaide@gmail.com</sub>|						
+|<sub>0</sup>|<sub>8381cc3e55e90efdcc62d73fa8fc5d3a</sub>|										|<sub></sup>|									<sub>1,000/day 30,000/month</sup>|
+|<sub>1</sup>|<sub>38c0455b66d86376e0452cdd69a6371f<br>06ddef20812d74745b082fef1ad24a79</sup>	|<sub>6170306321@alumni.chula.ac.th</sub>|		<sub>1,000/day 30,000/month</sup>|
+|<sub>2</sup>|<sub>283019a4b61eafae7824e4d94b8f1926<br>24239069ddf1215fea599ff22d87241a</sup>	|<sub>thanksfordoo@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
+|<sub>3</sup>|<sub>337e3aac0ea1661559986991e11b2fd2</sup>										|<sub>johnconnorsjj@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>4</sup>|<sub>c8a441c6520d8a263990810629ac5c70</sup>										|<sub>sukit.j@ku.th</sub>|						<sub>1,000/day 30,000/month</sup>|
+|<sub>5</sup>|<sub>139e137adf53c8c5ad9dd0c3f76ed15c</sup>										|<sub>healthcamth.ai@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>6</sup>|<sub>cc46e3a6e0623d82e049835c05572c8e</sup>										|<sub>sukritjaid@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
+|<sub>7</sup>|<sub>8204452a0b97c103dd950449ea71476d</sup>										|<sub>sukritjaidee@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
+|<sub>8</sup>|<sub>c818a1a464199095a08b9fe4ee35cf1b</sup>										|<sub>sukritjaidee1@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>9</sup>|<sub>1e7b439448eb2bd640d2350265a35419</sup>										|<sub>sukritjaidee3@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|	
+|<sub>10</sup>|<sub>06bba879aa35472fcef1880cc63905e7</sup>										|<sub>sukritjaidee4@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>11</sup>|<sub>b6710939254546da2f0de859db4c44d4<br>377a7a72601d16e4d3f1b457c3b9cd7a</sup>	|<sub>sukritjaidee5@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>12</sup>|<sub>21a0dd6fccb08073ea2e0b07960abe5c</sup>										|<sub>sukritjaide@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|			
 	- https://home.openweathermap.org/users/sign_up
 
 ### TMD  
