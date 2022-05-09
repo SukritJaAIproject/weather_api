@@ -53,20 +53,20 @@
 	-historical data : https://meteostat.net/en/place/th/khlong-luang?s=48419&t=2022-04-25/2022-05-02
 
 ### wwo 
-|```no.```|```token```|```account```|
-| :---:| :---: | :---: |
-|<sub>0</sup>|<sub>b35f772c9a0f4a72aa494757220905</sup>					|<sub>johnconnorsjj@gmail.com</sub>|
-|<sub>1</sup>|<sub>842ff68cf9ba4d5c86c115928222303</sup>				|<sub>6170306321@alumni.chula.ac.th</sub>|
-|<sub>2</sup>|<sub>7cf0c859ecd845debe434709190407</sup>					|<sub>sukit.j@ku.th</sub>|
-|<sub>3</sup>|<sub>8f2687f97a224425850145054222404</sup>				|<sub>healthcamth.ai@gmail.com</sub>|
-|<sub>4</sup>|<sub>82aee0341e334eb1953102128220905</sup>				|<sub>sukritjaid@gmail.com</sub>|
-|<sub>5</sup>|<sub>82d29c1a22f341d285f102228220905</sup>				|<sub>sukritjaidee@gmail.com</sub>|
-|<sub>6</sup>|<sub>928299626f2e47e2aae102310220905</sup>				|<sub>sukritjaidee1@gmail.com</sub>|
-|<sub>7</sup>|<sub>8737f8a2fa354e938c9103230220905</sup>				|<sub>sukritjaidee3@gmail.com</sub>|
-|<sub>8</sup>|<sub>84abf3e30bc44b649a0103325220905</sup>				|<sub>sukritjaidee4@gmail.com</sub>|
-|<sub>9</sup>|<sub>9a7151b95a594f30943103415220905</sup>				|<sub>sukritjaidee5@gmail.com</sub>|
-|<sub>10</sup>|<sub>456e99b7d1964c9dacb103458220905</sup>				|<sub>sukritjaide@gmail.com</sub>|
-|<sub>11</sup>|<sub>4477b043738a45a4a00103826220905</sup>				|<sub>thanksfordoo@gmail.com</sub>|
+|```no.```|```token```|```account```|```Quota limit```|
+| :---:| :---: | :---: | :---: |
+|<sub>0</sup>|<sub>b35f772c9a0f4a72aa494757220905</sup>					|<sub>johnconnorsjj@gmail.com</sub>|			|<sub>500/day</sub>|
+|<sub>1</sup>|<sub>842ff68cf9ba4d5c86c115928222303</sup>				|<sub>6170306321@alumni.chula.ac.th</sub>|		|<sub>500/day</sub>|
+|<sub>2</sup>|<sub>7cf0c859ecd845debe434709190407</sup>					|<sub>sukit.j@ku.th</sub>|						|<sub>500/day</sub>|
+|<sub>3</sup>|<sub>8f2687f97a224425850145054222404</sup>				|<sub>healthcamth.ai@gmail.com</sub>|			|<sub>500/day</sub>|
+|<sub>4</sup>|<sub>82aee0341e334eb1953102128220905</sup>				|<sub>sukritjaid@gmail.com</sub>|				|<sub>500/day</sub>|
+|<sub>5</sup>|<sub>82d29c1a22f341d285f102228220905</sup>				|<sub>sukritjaidee@gmail.com</sub>|				|<sub>500/day</sub>|
+|<sub>6</sup>|<sub>928299626f2e47e2aae102310220905</sup>				|<sub>sukritjaidee1@gmail.com</sub>|			|<sub>500/day</sub>|
+|<sub>7</sup>|<sub>8737f8a2fa354e938c9103230220905</sup>				|<sub>sukritjaidee3@gmail.com</sub>|			|<sub>500/day</sub>|
+|<sub>8</sup>|<sub>84abf3e30bc44b649a0103325220905</sup>				|<sub>sukritjaidee4@gmail.com</sub>|			|<sub>500/day</sub>|
+|<sub>9</sup>|<sub>9a7151b95a594f30943103415220905</sup>				|<sub>sukritjaidee5@gmail.com</sub>|			|<sub>500/day</sub>|
+|<sub>10</sup>|<sub>456e99b7d1964c9dacb103458220905</sup>				|<sub>sukritjaide@gmail.com</sub>|				|<sub>500/day</sub>|
+|<sub>11</sup>|<sub>4477b043738a45a4a00103826220905</sup>				|<sub>thanksfordoo@gmail.com</sub>|				|<sub>500/day</sub>|
 	- https://www.worldweatheronline.com/
 	- https://www.worldweatheronline.com/developer/signup.aspx
 
