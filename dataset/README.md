@@ -27,14 +27,12 @@
 						- lat_max : 5.567
 ```					
 
-|```no.```|```package```|```url```|```account```|```token```|
-| :---:| :---: | :---: | :---: | :---: |  
-|<sub>0</sup>|<sub>meteostat</sup>						|<sub><sup>							</sup></sub>			|<sub>561.1 MB</sub>			|<sub>36 KB</sub>|
-|<sub>1</sup>|<sub>Visualcrossing</sup>					|<sub><sup>							</sup></sub>			|<sub>5.49 GB</sup>				|<sub>Q82HADKP8VA46L5QNL2LJLC4Y<br>2DSCEBCSZCZ87NGFDKK3Z84GB<br></sup>|
-|<sub>2</sup>|<sub>wwo</sup>							|<sub><sup>							</sup></sub>			|<sub>4.3 GB</sup>				|<sub>286 KB</sup>|
-|<sub>3</sup>|<sub>wunderground</sup>					|<sub><sup>							</sup></sub>			|<sub>6.43 GB</sup>				|<sub>427 KB</sup>|
-|<sub>4</sup>|<sub>openweather</sup>					|<sub><sup>							</sup></sub>			|<sub>8.76 GB</sup>				|<sub>582 KB</sup>|
-|<sub>5</sup>|<sub>tmd</sup>							|<sub><sup>							</sup></sub>			|<sub>312.6 MB</sup>			|<sub>20 KB</sup>|
+### Visualcrossing
+|```no.```|```token```|```account```|
+| :---:| :---: | :---: |
+|<sub>0</sup>|<sub>Q82HADKP8VA46L5QNL2LJLC4Y</sup>|<sub><sup></sup></sub>|
+|<sub>1</sup>|<sub>2DSCEBCSZCZ87NGFDKK3Z84GB</sup>|<sub><sup></sup></sub>|
+|<sub>2</sup>|<sub>9ECDU5PSBATV5BF3VYZH2MRU4</sup>|<sub><sup></sup></sub>|
 
 ## Reference
 	- https://www.openstreetmap.org/export#map=7/8.912/101.228
