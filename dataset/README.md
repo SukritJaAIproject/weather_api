@@ -41,8 +41,9 @@
 |<sub>0</sup>|<sub>a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757</sup>|						<sub>CU</sub>						|<sub>500/month</sub>|
 |<sub>1</sup>|<sub>50dbfecea8msh1bc8d84adf0930fp136792jsnbb05b25c3df9</sup>|						<sub>KU</sub>						|<sub>500/month</sub>|
 |<sub>2</sup>|<sub>98bc862b6bmsh7b653406e545a45p137d15jsnaf9c5940970a</sup>|						<sub>Healthcam</sub>				|<sub>500/month</sub>|
-|<sub>2</sup>|<sub>078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb</sup>|						<sub>Sukritjaidee@gmail.com</sub>	|<sub>500/month</sub>|
-
+|<sub>3</sup>|<sub>078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb</sup>|						<sub>Sukritjaidee@gmail.com</sub>	|<sub>500/month</sub>|
+|<sub>4</sup>|<sub>b1b96bf7cbmsh5b30fefc2cb2bf2p14ff40jsn55f937c91560</sup>|						<sub>sukritjaidee5@gmail.com</sub>	|<sub>500/month</sub>|
+|<sub>5</sup>|<sub>0509d2d0a4msh88c6cb0599c24b5p1ebec9jsn17f6d41f1ede</sup>|						<sub>thanksfordoo@gmail.com</sub>	|<sub>500/month</sub>|
 	-historical data : https://meteostat.net/en/place/th/khlong-luang?s=48419&t=2022-04-25/2022-05-02
 
 ### wwo 
