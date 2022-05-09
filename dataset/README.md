@@ -35,7 +35,6 @@
 |<sub>2</sup>|<sub>9ECDU5PSBATV5BF3VYZH2MRU4</sup>|<sub>Thanksfordoo</sub>|
 
 ### meteostat
-
 |```no.```|```token```|```account```|```Quota limit```|
 | :---:| :---: | :---: | :---: |
 |<sub>0</sup>|<sub>a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757</sup>|						<sub>CU</sub>						|<sub>500/month</sub>|
@@ -44,6 +43,8 @@
 |<sub>3</sup>|<sub>078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb</sup>|						<sub>Sukritjaidee@gmail.com</sub>	|<sub>500/month</sub>|
 |<sub>4</sup>|<sub>b1b96bf7cbmsh5b30fefc2cb2bf2p14ff40jsn55f937c91560</sup>|						<sub>sukritjaidee5@gmail.com</sub>	|<sub>500/month</sub>|
 |<sub>5</sup>|<sub>0509d2d0a4msh88c6cb0599c24b5p1ebec9jsn17f6d41f1ede</sup>|						<sub>thanksfordoo@gmail.com</sub>	|<sub>500/month</sub>|
+|<sub>6</sup>|<sub>07ea0358aamsh7b71d9f69059cd9p172526jsnb1e0b2350b40</sup>|						<sub>sukritjaidee4@gmail.com</sub>	|<sub>500/month</sub>|
+|<sub>7</sup>|<sub>4771903fb9msh974f474fdeea935p159107jsn21770b97c4dc</sup>|						<sub>sukritjaidee3@gmail.com</sub>	|<sub>500/month</sub>|
 	-historical data : https://meteostat.net/en/place/th/khlong-luang?s=48419&t=2022-04-25/2022-05-02
 
 ### wwo 
