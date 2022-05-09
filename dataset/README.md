@@ -36,11 +36,13 @@
 
 ### meteostat
 
-|```no.```|```token```|```account```|
-| :---:| :---: | :---: |
-|<sub>0</sup>|<sub>a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757</sup>|<sub></sub>|
-|<sub>1</sup>|<sub></sup>|<sub></sub>|
-|<sub>2</sup>|<sub></sup>|<sub></sub>|
+|```no.```|```token```|```account```|```Quota limit```|
+| :---:| :---: | :---: | :---: |
+|<sub>0</sup>|<sub>a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757</sup>|						<sub>CU</sub>						|<sub>500/month</sub>|
+|<sub>1</sup>|<sub>50dbfecea8msh1bc8d84adf0930fp136792jsnbb05b25c3df9</sup>|						<sub>KU</sub>						|<sub>500/month</sub>|
+|<sub>2</sup>|<sub>98bc862b6bmsh7b653406e545a45p137d15jsnaf9c5940970a</sup>|						<sub>Healthcam</sub>				|<sub>500/month</sub>|
+|<sub>2</sup>|<sub>078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb</sup>|						<sub>Sukritjaidee@gmail.com</sub>	|<sub>500/month</sub>|
+
 	-historical data : https://meteostat.net/en/place/th/khlong-luang?s=48419&t=2022-04-25/2022-05-02
 
 ### wwo 
