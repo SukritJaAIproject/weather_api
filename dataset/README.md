@@ -78,9 +78,9 @@
 |<sub>2</sup>|<sub></sup>|<sub>139e137adf53c8c5ad9dd0c3f76ed15c></sub>|
 |<sub>3</sup>|<sub>38c0455b66d86376e0452cdd69a6371f<br>06ddef20812d74745b082fef1ad24a79</sup>	|<sub>6170306321@alumni.chula.ac.th</sub>|
 |<sub>4</sup>|<sub>283019a4b61eafae7824e4d94b8f1926<br>24239069ddf1215fea599ff22d87241a</sup>	|<sub>thanksfordoo@gmail.com</sub>|
-|<sub>5</sup>|<sub>337e3aac0ea1661559986991e11b2fd2</sub>										|<sub>johnconnorsjj@gmail.com</sub>|
-|<sub>6</sup>|<sub></sup>|<sub></sub>|
-|<sub>6</sup>|<sub></sup>|<sub></sub>|
+|<sub>5</sup>|<sub>337e3aac0ea1661559986991e11b2fd2</sup>										|<sub>johnconnorsjj@gmail.com</sub>|
+|<sub>6</sup>|<sub>c8a441c6520d8a263990810629ac5c70</sup>										|<sub>sukit.j@ku.th</sub>|
+|<sub>6</sup>|<sub>139e137adf53c8c5ad9dd0c3f76ed15c</sup>										|<sub>healthcamth.ai@gmail.com</sub>|
 |<sub>6</sup>|<sub></sup>|<sub></sub>|
 |<sub>6</sup>|<sub></sup>|<sub></sub>|
 	- https://home.openweathermap.org/users/sign_up
