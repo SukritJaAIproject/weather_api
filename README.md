@@ -1,12 +1,5 @@
 # weather_api
 
-## ref
-```
-- Covert time : https://www.unixtimestamp.com/index.php
-- doc: https://docs.google.com/spreadsheets/d/1Vsd0ddCWbOEXTEa0tLEUaOa5ElNJ1mVgO7AKUGHrdJs/edit?usp=sharing
-- visualization: https://www.openstreetmap.org/export#map=7/13.808/100.547
-```
-
 ## Pricing
 ```
 - openweathermap : https://openweathermap.org/price : student free, 29,661 B/M
@@ -19,11 +12,6 @@
 - wwo : https://www.worldweatheronline.com/developer/api/pricing2.aspx
 ```
 
-## new data provider
-```
-- https://www.meteomatics.com/
-```	
-
 ## Historical data
 ```
 - https://drive.google.com/drive/folders/1d4nLTvWkyUEpgBiWkff5mMvZN4fCrGHt?usp=sharing : from station
@@ -35,3 +23,12 @@
 - Google drive : https://drive.google.com/drive/folders/1ylWhJ60lTbl_AHq9iJRkR0-0qWuCemd2?usp=sharing
 - train_weather_copy1_chula.ipynb : https://colab.research.google.com/drive/10cMJuqKrbT4wkbwvQba0BWX3DgEHm3pB?usp=sharing
 ```
+
+## Reference
+```
+- https://www.meteomatics.com/
+- pvlib : https://pvlib-python.readthedocs.io/en/stable/user_guide/forecasts.html
+- Covert time : https://www.unixtimestamp.com/index.php
+- doc: https://docs.google.com/spreadsheets/d/1Vsd0ddCWbOEXTEa0tLEUaOa5ElNJ1mVgO7AKUGHrdJs/edit?usp=sharing
+- visualization: https://www.openstreetmap.org/export#map=7/13.808/100.547
+```	
