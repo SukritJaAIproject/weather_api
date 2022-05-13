@@ -23,6 +23,8 @@
 - Google drive : https://drive.google.com/drive/folders/1ylWhJ60lTbl_AHq9iJRkR0-0qWuCemd2?usp=sharing
 - train_weather_copy1_chula.ipynb : https://colab.research.google.com/drive/10cMJuqKrbT4wkbwvQba0BWX3DgEHm3pB?usp=sharing
 - get_weather_thailand.ipynb : https://colab.research.google.com/drive/1pRymNwrwSZJzgAn6ZaWrjb3sPvCFr8h0?usp=sharing # Healthcam
+- get_weather_thailand_copy1.ipynb : https://colab.research.google.com/drive/1aL-5fl7CoH_tAIQwq_BOZW--4QSBpS_Y?usp=sharing
+- get_weather_thailand_copy2.ipynb : https://colab.research.google.com/drive/10sILI1tJuFegJa7jOjjSg7E8SGYi-uw6?usp=sharing
 ```
 
 ## Reference
