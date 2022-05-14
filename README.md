@@ -10,6 +10,7 @@
 - meteostat : https://github.com/meteostat/weather-stations : free
 - meteostat : https://rapidapi.com/meteostat/api/meteostat/pricing/ : $29.99 / mo
 - wwo : https://www.worldweatheronline.com/developer/api/pricing2.aspx
+- weacast : https://weacast.github.io/weacast-docs/guides/basics.html#deploying
 ```
 
 ## Historical data
