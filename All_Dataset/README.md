@@ -1,10 +1,10 @@
 # Dataset
 ```	
-		- lat_mim
+		- lat_min
 	- lon_min	- lon_max
 		- lat_max
 		
-	# (lon_min, lat_mim)      (lon_max, lat_mim) 
+	# (lon_min, lat_min)      (lon_max, lat_min) 
 	# (lon_min, lat_max)      (lon_max, lat_max) 
 ```	
 		
