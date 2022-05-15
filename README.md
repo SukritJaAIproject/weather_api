@@ -11,6 +11,9 @@
 - meteostat : https://rapidapi.com/meteostat/api/meteostat/pricing/ : $29.99 / mo
 - wwo : https://www.worldweatheronline.com/developer/api/pricing2.aspx
 - weacast : https://weacast.github.io/weacast-docs/guides/basics.html#deploying
+- https://pirateweather.net/getting-started
+- https://www.pivotalweather.com/model.php
+- https://data.planetos.com/datasets/noaa_gfs_pgrb2_global_forecast_recompute_0.25degree
 ```
 
 ## Historical data
