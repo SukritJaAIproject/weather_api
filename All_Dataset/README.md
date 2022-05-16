@@ -39,6 +39,8 @@
 |<sub>0</sup>|<sub>Q82HADKP8VA46L5QNL2LJLC4Y</sup>|<sub>CU</sub>|
 |<sub>1</sup>|<sub>2DSCEBCSZCZ87NGFDKK3Z84GB</sup>|<sub>KU</sub>|
 |<sub>2</sup>|<sub>9ECDU5PSBATV5BF3VYZH2MRU4</sup>|<sub>Thanksfordoo</sub>|
+|<sub>2</sup>|<sub>SAY8ZWUAT4JM4QMU6ZFZSRXRL</sup>|<sub>sukritjaidee@gmail.com</sub>|
+
 	- Visualcrossing : https://www.visualcrossing.com/weather-history/13.756331,%20100.501762/metric/2022-04-12/2022-05-08
 
 ### meteostat
