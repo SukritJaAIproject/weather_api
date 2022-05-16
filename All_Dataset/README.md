@@ -42,6 +42,15 @@
 |<sub>3</sup>|<sub>SAY8ZWUAT4JM4QMU6ZFZSRXRL</sup>|<sub>sukritjaidee@gmail.com</sub>|
 |<sub>4</sup>|<sub>R34ZKFZYLJXXSD5QUPY4V8NFM</sup>|<sub>sukritjaidee5@gmail.com</sub>|
 
+### weatherbit
+|```no.```|```token```|```account```|
+| :---:| :---: | :---: |
+|<sub>0</sup>|<sub>16ea4cb4b8d4466dbf4fe4ef22a560d5</sup>|<sub>sukit.j@ku.th</sub>|
+|<sub>1</sup>|<sub></sup>|<sub></sub>|
+|<sub>2</sup>|<sub></sup>|<sub></sub>|
+|<sub>3</sup>|<sub></sup>|<sub></sub>|
+|<sub>4</sup>|<sub></sup>|<sub></sub>|
+
 
 	- Visualcrossing : https://www.visualcrossing.com/weather-history/13.756331,%20100.501762/metric/2022-04-12/2022-05-08
 
