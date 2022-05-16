@@ -50,7 +50,7 @@
 |<sub>2</sup>|<sub></sup>|<sub></sub>|
 |<sub>3</sup>|<sub></sup>|<sub></sub>|
 |<sub>4</sup>|<sub></sup>|<sub></sub>|
-
+	- https://www.weatherbit.io/api/weather-history-hourly
 
 	- Visualcrossing : https://www.visualcrossing.com/weather-history/13.756331,%20100.501762/metric/2022-04-12/2022-05-08
 
