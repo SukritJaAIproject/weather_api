@@ -33,6 +33,7 @@
 - Copy of get_weather_thailand_copy2.ipynb : https://colab.research.google.com/drive/1RoAeGNDbxKz0YlqwadNWw6JhdvtNax8Y?usp=sharing
 - Evaluate.ipynb : https://colab.research.google.com/drive/1YTxQt4Q3_NeZAQjR6GpDqJ3aWXFebfiu?usp=sharing
 - main : https://colab.research.google.com/drive/1jN9PQjwhKO2xiZcnYNwovau26v-ojEyg?usp=sharing
+- ML_EGAT_spot_data_ver_4_1_4_2022.ipynb : https://colab.research.google.com/drive/1JVSlGY8q-8ibzPMOpUd3LN3uBsAcd2lJ?usp=sharing
 ```
 
 ## Reference
