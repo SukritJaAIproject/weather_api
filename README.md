@@ -30,6 +30,7 @@
 - get_weather_thailand.ipynb : https://colab.research.google.com/drive/1pRymNwrwSZJzgAn6ZaWrjb3sPvCFr8h0?usp=sharing # Healthcam
 - get_weather_thailand_copy1.ipynb : https://colab.research.google.com/drive/1aL-5fl7CoH_tAIQwq_BOZW--4QSBpS_Y?usp=sharing
 - get_weather_thailand_copy2.ipynb : https://colab.research.google.com/drive/10sILI1tJuFegJa7jOjjSg7E8SGYi-uw6?usp=sharing
+- Copy of get_weather_thailand_copy2.ipynb : https://colab.research.google.com/drive/1RoAeGNDbxKz0YlqwadNWw6JhdvtNax8Y?usp=sharing
 - Evaluate.ipynb : https://colab.research.google.com/drive/1YTxQt4Q3_NeZAQjR6GpDqJ3aWXFebfiu?usp=sharing
 - main : https://colab.research.google.com/drive/1jN9PQjwhKO2xiZcnYNwovau26v-ojEyg?usp=sharing
 ```
