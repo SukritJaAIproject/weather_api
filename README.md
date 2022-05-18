@@ -24,6 +24,7 @@
 ## **code**
 ```
 - train_weather.ipynb : https://colab.research.google.com/drive/1natwmNOvGkaLvJ3baFg9xjWBVaigwZiY?usp=sharing
+- train_weather.ipynb : https://colab.research.google.com/drive/11p8w3cACi-Zs-L1GI3NqaUyOegGKy8Pb?usp=sharing
 - Google drive : https://drive.google.com/drive/folders/1ylWhJ60lTbl_AHq9iJRkR0-0qWuCemd2?usp=sharing
 - train_weather_copy1_chula.ipynb : https://colab.research.google.com/drive/10cMJuqKrbT4wkbwvQba0BWX3DgEHm3pB?usp=sharing
 - get_weather_thailand.ipynb : https://colab.research.google.com/drive/1pRymNwrwSZJzgAn6ZaWrjb3sPvCFr8h0?usp=sharing # Healthcam
