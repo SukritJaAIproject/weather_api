@@ -9,7 +9,7 @@
 |<sup>กรุงเทพมหานคร</sup>|<sup>BANGKOK METROPOLIS</sup>|<sup>13.72638889</sup>|<sup>100.56	</sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
 |<sup>กรุงเทพฯ ท่าเรือคลองเตย</sup>|<sup>BANGKOK PORT (KLONG TOEI)</sup>|<sup>13.70694444</sup>|<sup>100.5680556</sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
 |<sup>กรุงเทพฯ บางนา สกษ.</sup>|<sup>BANG NA AGROMET.</sup>|<sup>13.66638889</sup>|<sup>100.6061111</sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
-|<sup>สถานีอุตุนิยม<br>วิทยาปทุมธานี</sup>|<sup>สถานีอุตุนิยม<br>วิทยาปทุมธานี</sup>|<sup>14.1161</sup>|<sup>100.6184113</sup>|<sup>29.5</sup>|<sup>90.0</sup>|<sup>14.008696<br>370634665</sup>|<sup>100.61279<br>296875</sup>|<sup>13.98737621<br>4146462</sup>|<sup>100.6347<br>65625</sup>|
+|<sup>สถานีอุตุนิยมวิทยาปทุมธานี</sup>|<sup>สถานีอุตุนิยมวิทยาปทุมธานี</sup>|<sup>14.1161</sup>|<sup>100.6184113</sup>|<sup>29.5</sup>|<sup>90.0</sup>|<sup>14.008696<br>370634665</sup>|<sup>100.61279<br>296875</sup>|<sup>13.98737621<br>4146462</sup>|<sup>100.6347<br>65625</sup>|
 
 
 			
