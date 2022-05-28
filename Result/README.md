@@ -105,7 +105,7 @@ https://www.google.com/maps/place/14%C2%B006'58.0%22N+100%C2%B037'14.2%22E/@14.1
 |<sup>กาญจนบุรี</sup>|<sup>KANCHANA BURI</sup>|<sup>14.0225</sup>|<sup>99.53583333</sup>|<sup> </sup>|
 |<sup>ทองผาภูมิ</sup>|<sup>THONG PHAPHUM</sup>|<sup>14.74222222</sup>|<sup>98.63638889</sup>|<sup> </sup>|
 |<sup>นครปฐม</sup>|<sup>NAKHONPATHOM</sup>|<sup>14.01166667</sup>|<sup>99.97</sup>|<sup> </sup>|
-|<sup>กรุงเทพมหานคร</sup>|<sup>BANGKOK METROPOLIS</sup>|<sup>13.72638889</sup>|<sup>100.56</sup>|<sup> </sup>|
+|<sup>กรุงเทพมหานคร</sup>|<sup>BANGKOK METROPOLIS</sup>|<sup>13.72638889</sup>|<sup>100.56</sup>|<sup>Y</sup>|
 |<sup>กรุงเทพฯ ท่าเรือคลองเตย</sup>|<sup>BANGKOK PORT (KLONG TOEI)</sup>|<sup>13.70694444</sup>|<sup>100.5680556</sup>|<sup> </sup>|
 |<sup>กรุงเทพฯ บางนา สกษ.</sup>|<sup>BANG NA AGROMET.</sup>|<sup>13.66638889</sup>|<sup>100.6061111</sup>|<sup> </sup>|
 |<sup>สนามบินดอนเมือง</sup>|<sup>DON MUANG AIRPORT</sup>|<sup>13.91916667</sup>|<sup>100.605</sup>|<sup> </sup>|
