@@ -6,7 +6,7 @@
 ```
 |<sup>en</sup>|<sup>name_met</sup>|<sup>met_wmo</sup>|<sup>th</sup>|<sup>Lat<br>Lat_met</sup>|<sup>Lon<br>Lon_met</sup>|<sup>temp</sup>|<sup>rh</sup>|<sup>max lat<br>north</sup>|<sup>min lon<br>west</sup>|<sup>min lat<br>south</sup>|<sup>max lon<br>east</sup>|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|<sup>กรุงเทพมหานคร</sup>|<sup>Bangkok</sup>|<sup>48455</sup>|<sup>BANGKOK METROPOLIS</sup>|<sup>13.72638889<br>13.7333</sup>|<sup>100.56	<br>100.5667</sup>|<sup></sup>|<sup></sup>|					<sup><br>13.752724664396986</sup>|<sup>100.546875<br></sup>|<sup>13.731380974942699 <br></sup>|<sup>100.56884765625<br></sup>|
+|<sup>กรุงเทพมหานคร</sup>|<sup>Bangkok</sup>|<sup>48455</sup>|<sup>BANGKOK METROPOLIS</sup>|<sup>13.72638889<br>13.7333</sup>|<sup>100.56	<br>100.5667</sup>|<sup></sup>|<sup></sup>|					<sup>13.752<br>724664396986</sup>|<sup>100.<br>546875</sup>|<sup>13.73<br>1380974942699 <br></sup>|<sup>100.568<br>84765625<br></sup>|
 |<sup>กรุงเทพฯ ท่าเรือคลองเตย</sup>|<sup> </sup>|<sup> </sup>|<sup>BANGKOK PORT (KLONG TOEI)</sup>|<sup>13.70694444</sup>|<sup>100.5680556</sup>|<sup></sup>|<sup></sup>|									<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
 |<sup>กรุงเทพฯ บางนา สกษ.</sup>|<sup> </sup>|<sup> </sup>|<sup>BANG NA AGROMET.</sup>|<sup>13.66638889</sup>|<sup>100.6061111</sup>|<sup></sup>|<sup></sup>|											<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
 |<sup>สถานีอุตุนิยมวิทยาปทุมธานี</sup>|<sup> </sup>|<sup> </sup>|<sup>สถานีอุตุนิยมวิทยาปทุมธานี</sup>|<sup>14.1161</sup>|<sup>100.6184113</sup>|<sup>29.5</sup>|<sup>90.0</sup>|<sup>14.008696<br>370634665</sup>	|		<sup>100.61279<br>296875</sup>|<sup>13.98737621<br>4146462</sup>|<sup>100.6347<br>65625</sup>|
