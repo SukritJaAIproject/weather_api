@@ -6,8 +6,8 @@
 ```
 |<sup>datetime</sup>|<sup>en</sup>|<sup>th</sup>|<sup>Lat</sup>|<sup>Lon</sup>|<sup>temp</sup>|<sup>rh</sup>|<sup>max lat<br>north</sup>|<sup>min lon<br>west</sup>|<sup>min lat<br>south</sup>|<sup>max lon<br>east</sup>|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|<sup>15/5/2022<br>13:25:36</sup>|<sup>กรุงเทพ</sup>|<sup>BANGKOK<br>METROPOLIS</sup>|<sup>14.1161</sup>|<sup>100.6184113</sup>|<sup>29.5</sup>|<sup>90.0</sup>|<sup>14.008696<br>370634665</sup>|<sup>100.61279<br>296875</sup>|<sup>13.98737621<br>4146462</sup>|<sup>100.6347<br>65625</sup>|
-
+|<sup></sup>|<sup>กรุงเทพ</sup>|<sup>BANGKOK<br>METROPOLIS</sup>|<sup></sup>|<sup></sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
+|<sup></sup>|<sup>สถานีอุตุนิยม<br>วิทยาปทุมธานี</sup>|<sup>สถานีอุตุนิยม<br>วิทยาปทุมธานี</sup>|<sup>14.1161</sup>|<sup>100.6184113</sup>|<sup>29.5</sup>|<sup>90.0</sup>|<sup>14.008696<br>370634665</sup>|<sup>100.61279<br>296875</sup>|<sup>13.98737621<br>4146462</sup>|<sup>100.6347<br>65625</sup>|
 ## BANGKOK METROPOLIS
 ```
 q1: lat_min-south, lon_max-east (14.115267411122712, 100.62103271484375)
