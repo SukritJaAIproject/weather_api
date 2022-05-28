@@ -5,7 +5,7 @@
 - Testing site :
 ```
 |<sup>en</sup>|<sup>name</sup>|<sup>wmo</sup>|<sup>th</sup>|<sup>Lat</sup>|<sup>Lon</sup>|<sup>temp</sup>|<sup>rh</sup>|<sup>max lat<br>north</sup>|<sup>min lon<br>west</sup>|<sup>min lat<br>south</sup>|<sup>max lon<br>east</sup>|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |<sup>กรุงเทพมหานคร</sup>|<sup>Bangkok</sup>|<sup>48455</sup>|<sup>BANGKOK METROPOLIS</sup>|<sup>13.72638889</sup>|<sup>100.56	</sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
 |<sup>กรุงเทพฯ ท่าเรือคลองเตย</sup>|<sup> </sup>|<sup> </sup>|<sup>BANGKOK PORT (KLONG TOEI)</sup>|<sup>13.70694444</sup>|<sup>100.5680556</sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
 |<sup>กรุงเทพฯ บางนา สกษ.</sup>|<sup> </sup>|<sup> </sup>|<sup>BANG NA AGROMET.</sup>|<sup>13.66638889</sup>|<sup>100.6061111</sup>|<sup></sup>|<sup></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|<sup><br></sup>|
