@@ -52,11 +52,11 @@ from tmd_api.tmd_forecast import tmd_forecast
 lat, lon, zoom = 13.989478999999996, 100.616387, 14
 cur_date = datetime.today().strftime("%Y-%m-%d")
 cur_time = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%H:%M:%S")
-apikey_met = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
-appid_open = "283019a4b61eafae7824e4d94b8f1926" #thanksfordoo@gmail.com
-apiKey_wdg = "92034bae5e864c0a834bae5e86fc0a18"
-apikey_vc = "9ECDU5PSBATV5BF3VYZH2MRU4" #Thanksfordoo
-apikey_wwo = "842ff68cf9ba4d5c86c115928222303"
+apikey_met = "YOUR_API_KEY"
+appid_open = "YOUR_API_KEY" #thanksfordoo@gmail.com
+apiKey_wdg = "YOUR_API_KEY"
+apikey_vc = "YOUR_API_KEY" #Thanksfordoo
+apikey_wwo = "YOUR_API_KEY"
 
 def weather_pred(lat, lon, zoom, cur_date, cur_time, appid_open, apikey_met):
   x, y, z = latlon2TMS(lat, lon, zoom)
