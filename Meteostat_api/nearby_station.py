@@ -24,6 +24,6 @@ def Nearby_Stations(lat, lon, api_key):
   return df
 
 #lat, lon = 13.989478999999996, 100.616387
-#api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
+#api_key = "YOUR_API_KEY"
 #data = Nearby_Stations(lat, lon, api_key)
 #print(data)
