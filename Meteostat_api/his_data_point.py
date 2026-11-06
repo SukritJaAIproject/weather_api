@@ -52,8 +52,8 @@ def current_data_point(lat, lon, start, end, api_key, cur_date, cur_time):
 # ## Testing
 # # lat, lon = "13.989478999999996", "100.616387"
 # # start, end = "2021-01-01", "2021-01-15"
-# # #api_key = "a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
-# api_key = "078ced9a19mshb9078983cee367dp125d20jsn8d25ea17c1eb"
+# # #api_key = "YOUR_API_KEY"
+# api_key = "YOUR_API_KEY"
 
 # cur_date = datetime.today().strftime("%Y-%m-%d")
 # cur_time = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%H")
