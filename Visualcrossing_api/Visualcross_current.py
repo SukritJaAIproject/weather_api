@@ -11,9 +11,9 @@ from google.colab import files
 ########## current data ##########
 lat, lon = "13.989478999999996", "100.616387"
 
-# api_key = "Q82HADKP8VA46L5QNL2LJLC4Y" #Chula
-# api_key = "2DSCEBCSZCZ87NGFDKK3Z84GB" #KU
-api_key = "9ECDU5PSBATV5BF3VYZH2MRU4" #Thanksfordoo
+# api_key = "YOUR_API_KEY" #Chula
+# api_key = "YOUR_API_KEY" #KU
+api_key = "YOUR_API_KEY" #Thanksfordoo
 
 current_date = datetime.today().strftime("%Y-%m-%d")
 current_time = datetime.now().strftime("%H:%M:%S")
