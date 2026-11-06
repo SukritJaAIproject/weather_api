@@ -34,6 +34,6 @@ def wg_his_data(start, end, year, month, station_name, apiKey):
 
 # start, end, year, month = 1, 31, 2022, 3
 # days, obsTimeUtcs, obsTimeLocals, tempAvgs, humidityAvgs = [], [], [], [], []
-# station_name, apiKey = 'IPHOCH1', "92034bae5e864c0a834bae5e86fc0a18"
+# station_name, apiKey = 'IPHOCH1', "YOUR_API_KEY"
 # df = wg_his_data(start, end, year, month, station_name, apiKey)
 # df
