@@ -10,7 +10,7 @@ current_time = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%H:%M:%S")
 # print("current_date =", current_date, "Current Time =", current_time)
 
 lat, lon = "13.989478999999996", "100.616387"
-apikey ="a949fee7f6mshf15640e97c60b31p1a6549jsn36e6b0350757"
+apikey ="YOUR_API_KEY"
 
 def nearby_stations_get_data(lat, lon, apikey, current_date, current_time):
   '''
