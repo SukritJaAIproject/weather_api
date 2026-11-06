@@ -38,7 +38,7 @@ def Visualcrossing_forecast(lat, lon, api_key):
   df = pd.DataFrame({'date':date_list, 'datetime':datetime_list, 'temp':temp_list, 'humidity':rh_list})
   return df
   
-# api_key = "Q82HADKP8VA46L5QNL2LJLC4Y"
+# api_key = "YOUR_API_KEY"
 # lat, lon = 13.989478999999996, 100.616387 #z=17
 # df = Visualcrossing_forecast(lat, lon, api_key)
 # df
