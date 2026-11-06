@@ -36,18 +36,18 @@
 ### Visualcrossing
 |```no.```|```token```|```account```|
 | :---:| :---: | :---: |
-|<sub>0</sup>|<sub>YOUR_API_KEY</sup>|<sub>6170306321@alumni.chula.ac.th</sub>|
-|<sub>1</sup>|<sub>YOUR_API_KEY</sup>|<sub>sukit.j@ku.th</sub>|
-|<sub>2</sup>|<sub>YOUR_API_KEY</sup>|<sub>Thanksfordoo@gmail.com</sub>|
-|<sub>3</sup>|<sub>YOUR_API_KEY</sup>|<sub>sukritjaidee@gmail.com</sub>|
-|<sub>4</sup>|<sub>YOUR_API_KEY</sup>|<sub>sukritjaidee5@gmail.com</sub>|
+|<sub>0</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
+|<sub>1</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
+|<sub>2</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
+|<sub>3</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
+|<sub>4</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
 	- Visualcrossing : https://www.visualcrossing.com/weather-history/13.756331,%20100.501762/metric/2022-04-12/2022-05-08
 	
 ### weatherbit
 |```no.```|```token```|```account```|
 | :---:| :---: | :---: |
-|<sub>0</sup>|<sub>YOUR_API_KEY</sup>|<sub>sukit.j@ku.th</sub>|
-|<sub>1</sup>|<sub>YOUR_API_KEY</sup>|<sub>6170306321@alumni.chula.ac.th</sub>|
+|<sub>0</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
+|<sub>1</sup>|<sub>YOUR_API_KEY</sup>|<sub>YOUR_EMAIL</sub>|
 |<sub>2</sup>|<sub></sup>|<sub></sub>|
 |<sub>3</sup>|<sub></sup>|<sub></sub>|
 |<sub>4</sup>|<sub></sup>|<sub></sub>|
@@ -61,32 +61,32 @@
 |<sub>0</sup>|<sub>YOUR_API_KEY</sup>|						<sub>CU</sub>						|<sub>500/month</sub>|
 |<sub>1</sup>|<sub>YOUR_API_KEY</sup>|						<sub>KU</sub>						|<sub>500/month</sub>|
 |<sub>2</sup>|<sub>YOUR_API_KEY</sup>|						<sub>Healthcam</sub>				|<sub>500/month</sub>|
-|<sub>3</sup>|<sub>YOUR_API_KEY</sup>|						<sub>thanksfordoo@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>4</sup>|<sub>YOUR_API_KEY</sup>|						<sub>Sukritjaidee@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>5</sup>|<sub>YOUR_API_KEY</sup>|						<sub>sukritjaidee5@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>6</sup>|<sub>YOUR_API_KEY</sup>|						<sub>sukritjaidee4@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>7</sup>|<sub>YOUR_API_KEY</sup>|						<sub>sukritjaidee3@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>8</sup>|<sub>YOUR_API_KEY</sup>|						<sub>sukritjaidee1@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>9</sup>|<sub>YOUR_API_KEY</sup>|						<sub>johnconnorsjj@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>10</sup>|<sub>YOUR_API_KEY</sup>|						<sub>sukritjaide@gmail.com</sub>	|<sub>500/month</sub>|
-|<sub>11</sup>|<sub>YOUR_API_KEY</sup>|						<sub>sukritjaid@gmail.com</sub>		|<sub>500/month</sub>|
+|<sub>3</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>4</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>5</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>6</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>7</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>8</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>9</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>10</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>	|<sub>500/month</sub>|
+|<sub>11</sup>|<sub>YOUR_API_KEY</sup>|						<sub>YOUR_EMAIL</sub>		|<sub>500/month</sub>|
 	-historical data : https://meteostat.net/en/place/th/khlong-luang?s=48419&t=2022-04-25/2022-05-02
 
 ### wwo 
 |```no.```|```token```|```account```|```Quota limit```|
 | :---:| :---: | :---: | :---: |
-|<sub>0</sup>|<sub>YOUR_API_KEY</sup>					|<sub>johnconnorsjj@gmail.com</sub>|			<sub>500/day</sub>|
-|<sub>1</sup>|<sub>YOUR_API_KEY</sup>				|<sub>6170306321@alumni.chula.ac.th</sub>|		<sub>500/day</sub>|
-|<sub>2</sup>|<sub>YOUR_API_KEY</sup>					|<sub>sukit.j@ku.th</sub>|						<sub>500/day</sub>|
-|<sub>3</sup>|<sub>YOUR_API_KEY</sup>				|<sub>healthcamth.ai@gmail.com</sub>|			<sub>500/day</sub>|
-|<sub>4</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaid@gmail.com</sub>|				<sub>500/day</sub>|
-|<sub>5</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaidee@gmail.com</sub>|				<sub>500/day</sub>|
-|<sub>6</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaidee1@gmail.com</sub>|			<sub>500/day</sub>|
-|<sub>7</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaidee3@gmail.com</sub>|			<sub>500/day</sub>|
-|<sub>8</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaidee4@gmail.com</sub>|			<sub>500/day</sub>|
-|<sub>9</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaidee5@gmail.com</sub>|			<sub>500/day</sub>|
-|<sub>10</sup>|<sub>YOUR_API_KEY</sup>				|<sub>sukritjaide@gmail.com</sub>|				<sub>500/day</sub>|
-|<sub>11</sup>|<sub>YOUR_API_KEY</sup>				|<sub>thanksfordoo@gmail.com</sub>|				<sub>500/day</sub>|
+|<sub>0</sup>|<sub>YOUR_API_KEY</sup>					|<sub>YOUR_EMAIL</sub>|			<sub>500/day</sub>|
+|<sub>1</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|		<sub>500/day</sub>|
+|<sub>2</sup>|<sub>YOUR_API_KEY</sup>					|<sub>YOUR_EMAIL</sub>|						<sub>500/day</sub>|
+|<sub>3</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|			<sub>500/day</sub>|
+|<sub>4</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|				<sub>500/day</sub>|
+|<sub>5</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|				<sub>500/day</sub>|
+|<sub>6</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|			<sub>500/day</sub>|
+|<sub>7</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|			<sub>500/day</sub>|
+|<sub>8</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|			<sub>500/day</sub>|
+|<sub>9</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|			<sub>500/day</sub>|
+|<sub>10</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|				<sub>500/day</sub>|
+|<sub>11</sup>|<sub>YOUR_API_KEY</sup>				|<sub>YOUR_EMAIL</sub>|				<sub>500/day</sub>|
 	- https://www.worldweatheronline.com/
 	- https://www.worldweatheronline.com/developer/signup.aspx
 
@@ -94,18 +94,18 @@
 |```no.```|```token```|```account```|```Quota limit```|
 | :---:| :---: | :---: | :---: |
 |<sub>0</sup>|<sub>YOUR_API_KEY</sub>										|<sub>-</sup>|									<sub>1,000/day 30,000/month</sup>|
-|<sub>1</sup>|<sub>YOUR_API_KEY</sup>	|<sub>6170306321@alumni.chula.ac.th</sub>|		<sub>1,000/day 30,000/month</sup>|
-|<sub>2</sup>|<sub>YOUR_API_KEY</sup>	|<sub>thanksfordoo@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
-|<sub>3</sup>|<sub>YOUR_API_KEY</sup>										|<sub>johnconnorsjj@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
-|<sub>4</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukit.j@ku.th</sub>|						<sub>1,000/day 30,000/month</sup>|
-|<sub>5</sup>|<sub>YOUR_API_KEY</sup>										|<sub>healthcamth.ai@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
-|<sub>6</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukritjaid@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
-|<sub>7</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukritjaidee@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|
-|<sub>8</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukritjaidee1@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
-|<sub>9</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukritjaidee3@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|	
-|<sub>10</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukritjaidee4@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
-|<sub>11</sup>|<sub>YOUR_API_KEY</sup>	|<sub>sukritjaidee5@gmail.com</sub>|			<sub>1,000/day 30,000/month</sup>|
-|<sub>12</sup>|<sub>YOUR_API_KEY</sup>										|<sub>sukritjaide@gmail.com</sub>|				<sub>1,000/day 30,000/month</sup>|			
+|<sub>1</sup>|<sub>YOUR_API_KEY</sup>	|<sub>YOUR_EMAIL</sub>|		<sub>1,000/day 30,000/month</sup>|
+|<sub>2</sup>|<sub>YOUR_API_KEY</sup>	|<sub>YOUR_EMAIL</sub>|				<sub>1,000/day 30,000/month</sup>|
+|<sub>3</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>4</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|						<sub>1,000/day 30,000/month</sup>|
+|<sub>5</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>6</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|				<sub>1,000/day 30,000/month</sup>|
+|<sub>7</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|				<sub>1,000/day 30,000/month</sup>|
+|<sub>8</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>9</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|			<sub>1,000/day 30,000/month</sup>|	
+|<sub>10</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>11</sup>|<sub>YOUR_API_KEY</sup>	|<sub>YOUR_EMAIL</sub>|			<sub>1,000/day 30,000/month</sup>|
+|<sub>12</sup>|<sub>YOUR_API_KEY</sup>										|<sub>YOUR_EMAIL</sub>|				<sub>1,000/day 30,000/month</sup>|			
 	- https://home.openweathermap.org/users/sign_up
 
 ### TMD  
