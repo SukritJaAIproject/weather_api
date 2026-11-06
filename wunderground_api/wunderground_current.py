@@ -74,6 +74,6 @@ latlons = {'chula': (13.7389852,100.528069),  'chula_14z': (13.7389592,100.52740
            'ChangArena_z17': (14.9658694,103.0921753), 'Futurepark':(13.989478999999996, 100.616387 )}
 
 # # ChangArena_z17  
-# lat, lon, apiKey =  14.9658694, 103.0921753 , "92034bae5e864c0a834bae5e86fc0a18"
+# lat, lon, apiKey =  14.9658694, 103.0921753 , "YOUR_API_KEY"
 # result = wunderground_current(lat, lon, apiKey)
 # print(result)
