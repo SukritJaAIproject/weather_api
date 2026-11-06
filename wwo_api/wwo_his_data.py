@@ -27,6 +27,6 @@ def wwo_his_data(lat, lon, start_day, end_day, apikey):
 
 # start_day, end_day = 1, 16
 # lat, lon = "13.989478999999996", "100.616387" 
-# apikey = "842ff68cf9ba4d5c86c115928222303"
+# apikey = "YOUR_API_KEY"
 # df = wwo_his_data(lat, lon, start_day, end_day, apikey)
 # df
