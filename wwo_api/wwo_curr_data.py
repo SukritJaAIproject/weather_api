@@ -46,6 +46,6 @@ def wwo_curr_data(lat, lon, date, current_time, apikey):
 
 # lat, lon = "13.989478999999996", "100.616387" 
 # date = "2022-01-01"
-# apikey = "842ff68cf9ba4d5c86c115928222303"
+# apikey = "YOUR_API_KEY"
 # df = wwo_curr_data(lat, lon, date, apikey)
 # df
