@@ -63,7 +63,7 @@
 # print('distanceKm: ', data['location']['distanceKm'])
 # print('distanceMi: ', data['location']['distanceMi'])
 
-lat, lon, apiKey = 13.917, 100.600, "92034bae5e864c0a834bae5e86fc0a18"
+lat, lon, apiKey = 13.917, 100.600, "YOUR_API_KEY"
 url = "https://api.weather.com/v3/location/point?format=json&geocode="+str(lat)+","+str(lon)+"&language=en-US&apiKey="+str(apiKey)
 payload, headers={}, {}
 response = requests.request("GET", url, headers=headers, data=payload)
@@ -88,7 +88,7 @@ import datetime
 import requests
 import pandas as pd
 from tqdm import tqdm
-lat, lon, apiKey = 13.989478999999996, 100.616387, "92034bae5e864c0a834bae5e86fc0a18"
+lat, lon, apiKey = 13.989478999999996, 100.616387, "YOUR_API_KEY"
 url = "https://api.weather.com/v3/location/near?geocode="+str(lat)+","+str(lon)+"&product=observation&format=json&apiKey="+str(apiKey)
 payload, headers={}, {}
 response = requests.request("GET", url, headers=headers, data=payload)
