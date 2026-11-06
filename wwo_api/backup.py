@@ -8,7 +8,7 @@
 # frequency = 1
 # start_date = '11-DEC-2021'
 # end_date = '11-MAR-2021'
-# api_key = '842ff68cf9ba4d5c86c115928222303'
+# api_key = 'YOUR_API_KEY'
 # location_list = ['13.989478999999996/100.616387'] #Latitude/Longitude (decimal degree)
 # hist_weather_data = retrieve_hist_data(api_key, location_list,
 #                                 start_date, end_date, frequency, location_label = False, export_csv = True, store_df = True)
