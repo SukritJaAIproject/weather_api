@@ -30,4 +30,4 @@
 # # url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/
 # 13.989478999999996%2C%20100.616387/2022-01-01/2022-01-31
 # ?unitGroup=metric&elements=datetime%2CdatetimeEpoch%2Clatitude%2Clongitude%2Ctemp&include=obs%2Chours&key=
-# Q82HADKP8VA46L5QNL2LJLC4Y&contentType=json"
+# YOUR_API_KEY&contentType=json"
