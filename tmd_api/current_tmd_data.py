@@ -5,7 +5,7 @@ import pandas as pd
 def current_tmd_data():
   sname_en_g, sname_th_g, Lat_g, Lon_g, temp_g, rh_g, datetime = [], [], [], [], [], [], []
   url = "http://data.tmd.go.th/api/WeatherToday/V1/?type=json"
-  payload, headers={},  {'Authorization': 'Bearer 545d49361c74fe17c54806410ef1a738'}
+  payload, headers={},  {'Authorization': 'Bearer YOUR_API_KEY'}
   response = requests.request("GET", url, headers=headers, data=payload)
   r = json.loads(response.text); print(r['Header']);
   date = r['Header']['LastBuiltDate']
