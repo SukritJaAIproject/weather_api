@@ -10,9 +10,9 @@ from google.colab import files
 lat, lon = "13.989478999999996", "100.616387"
 start_date, end_date = "2021-01-01", "2021-01-15"
 
-# api_key = "Q82HADKP8VA46L5QNL2LJLC4Y" #Chula
-# api_key = "2DSCEBCSZCZ87NGFDKK3Z84GB" #KU
-api_key = "9ECDU5PSBATV5BF3VYZH2MRU4" #Thanksfordoo
+# api_key = "YOUR_API_KEY" #Chula
+# api_key = "YOUR_API_KEY" #KU
+api_key = "YOUR_API_KEY" #Thanksfordoo
 
 def Visualcrossing_hist(lat, lon, start_date, end_date, api_key):
   url1 = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"
